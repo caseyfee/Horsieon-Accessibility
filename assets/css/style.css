@@ -6,15 +6,6 @@
     margin: 0;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
 body {
     background-color: #d9dcd6;
 }
@@ -55,6 +46,14 @@ body {
 }
 
 /* Large figure of boardroom */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
 
 .hero {
     height: 800px;
@@ -63,42 +62,6 @@ body {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-/* Three main sections */
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization, .online-reputation-management, .social-media-marketing, h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.search-engine-optimization, .online-reputation-management, .social-media-marketing, img {
-    max-height: 200px;
 }
 
 /* Aside bar */
@@ -128,6 +91,43 @@ body {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+/* Main Section */
+/* Three main section pictures */
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.service {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.service, h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.service, img {
+    max-height: 200px;
 }
 
 /* Footer */
