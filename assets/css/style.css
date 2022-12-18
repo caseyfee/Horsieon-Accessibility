@@ -1,12 +1,25 @@
+/* Over-arching styling for entire page */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 body {
     background-color: #d9dcd6;
 }
+
+/* Top blue navigation bar */
 
 .header {
     padding: 20px;
@@ -41,14 +54,7 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
+/* Large figure of boardroom */
 
 .hero {
     height: 800px;
@@ -58,6 +64,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Three main sections */
 
 .float-left {
     float: left;
@@ -93,6 +101,8 @@ p {
     max-height: 200px;
 }
 
+/* Aside bar */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +129,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer */
 
 .footer {
     padding: 30px;
