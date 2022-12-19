@@ -21,6 +21,7 @@ git@github.com:caseyfee/Horsieon-Accessibility.git
 
 Live link: https://caseyfee.github.io/Horsieon-Accessibility/
 
+![Wepbate](/Users/caseyfee/Documents/Working Files/Challenge 1/Horsieon-Accessibility/assets/images/Screen Shot 2022-12-19 at 8.24.47 AM?raw=true "Webpage")
 
 
 ## Credits
