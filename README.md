@@ -21,6 +21,6 @@ git@github.com:caseyfee/Horsieon-Accessibility.git
 
 ## Credits
 
-Shout out to my classmates, TAs, and tutor.
+Shout out to my classmates (- especially Nhan!), TAs, and tutor.
 
 

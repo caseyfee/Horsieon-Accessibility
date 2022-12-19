@@ -64,6 +64,25 @@ p {
     background-position: center;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* Main Section */
+/* Three main section pictures */
+
 /* Aside bar */
 
 .benefits {
@@ -93,25 +112,6 @@ p {
     max-width: 150px;
 }
 
-/* Main Section */
-/* Three main section pictures */
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -121,14 +121,16 @@ p {
     color: #ffffff;
 }
 
-.service, h2 {
+.service img {
+    max-height: 200px;
+}
+
+.service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.service, img {
-    max-height: 200px;
-}
+
 
 /* Footer */
 
