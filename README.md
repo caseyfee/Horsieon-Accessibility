@@ -10,7 +10,7 @@ No installation is required.
 
 ## Usage
 
-A screenshot is included below of the site and INDEX file. Both are saved here: 
+A screenshot is included below of the site. Saved here: 
 
 /Users/caseyfee/Documents/Working Files/Challenge 1/Horsieon-Accessibility/assets/images
 
@@ -18,6 +18,8 @@ A screenshot is included below of the site and INDEX file. Both are saved here:
 A GitHub link is here: https://github.com/caseyfee/Horsieon-Accessibility.git
 or
 git@github.com:caseyfee/Horsieon-Accessibility.git
+
+Live link: https://caseyfee.github.io/Horsieon-Accessibility/
 
 
 
