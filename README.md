@@ -12,11 +12,13 @@ No installation is required.
 
 A screenshot is included below of the site and INDEX file. Both are saved here: 
 
-/Users/caseyfee/Documents/Working Files/Challenge 1/Horsieon-Accessibility/assets/images/screenshot.png
+/Users/caseyfee/Documents/Working Files/Challenge 1/Horsieon-Accessibility/assets/images
+
 
 A GitHub link is here: https://github.com/caseyfee/Horsieon-Accessibility.git
 or
 git@github.com:caseyfee/Horsieon-Accessibility.git
+
 
 
 ## Credits
